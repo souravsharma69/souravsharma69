@@ -18,8 +18,7 @@
 - 🛡️ Learning about **data and information security in cloud computing**.  
 
 ## 🌟 Fun Facts  
-- I prefer using **Ubuntu** on my **EC2 instances**.  
-- I’m fluent in **Hindi** and prefer learning in my native language.  
+- I’m fluent in **Hindi** and **English**.  
 
 ## 📬 Get in Touch  
 - 📧 Email: [souravsharma0697@gmail.com](mailto:souravsharma0697@gmail.com)  
